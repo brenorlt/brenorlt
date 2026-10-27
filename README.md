@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por criar soluções escaláveis e performática
 
 - 🌱 Estudando: **System Design e Arquitetura Limpa**
 - 💬 Pergunte-me sobre: **Backend, NestJS e Otimização de Banco de Dados**
-- 📫 Contato: **brenosas2003@gmail.com**
+- 📫 Contato: **brenotolentino.dev@gmail.com**
 
 ---
 
